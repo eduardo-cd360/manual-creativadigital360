@@ -9,3 +9,8 @@ Los equipos en donde se instala el programa de Creativa3D ITV, deben cumplir al 
 | Disco Duro        |	256GB SSD o 1TB HDD                             |	256GB SSD o 1TB HDD                     |
 | S.O.              |	Windows 7                                       |	Windows 10                              |
 | Software adicional|	JAVA JRE 1.8, Anydesk Control Remoto            |                                           |
+
+
+
+
+## La configuración
