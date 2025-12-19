@@ -1,5 +1,7 @@
 REQUISITOS DEL SISTEMA
 
+## Equipos de línea y de oficina
+
 Los equipos en donde se instala el programa de Creativa3D ITV, deben cumplir al menos la configuración mínima para el buen funcionamiento.
 
 | Característica    | Configuración mínima                              | Configuración recomendada                 |
@@ -11,6 +13,3 @@ Los equipos en donde se instala el programa de Creativa3D ITV, deben cumplir al 
 | Software adicional|	JAVA JRE 1.8, Anydesk Control Remoto            |                                           |
 
 
-
-
-## La configuración

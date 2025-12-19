@@ -114,15 +114,16 @@ nav:
     - guia-de-inicio/instalacion/instalacion.md
     - guia-de-inicio/iniciar-sesion/iniciar-sesion.md
     - guia-de-inicio/interfaz-de-usuario/interfaz-de-usuario.md
+    - guia-de-inicio/interfaz-de-usuario/menus.md
     # - guia-de-inicio/configurar-programa.md
-    - guia-de-inicio/alta-de-inspecciones/alta-de-inspeccion-periodica/alta-de-inspeccion-periodica.md
-    - guia-de-inicio/alta-de-inspecciones/alta-de-inspeccion-no-periodica/alta-de-inspeccion-no-periodica.md
-    - guia-de-inicio/dar-de-alta-expedientes.md
-    - guia-de-inicio/trabajar-con-inspecciones.md
-    - guia-de-inicio/trabajar-con-expedietes.md
-    - guia-de-inicio/facturacion.md
-    - guia-de-inicio/informes.md
-    - guia-de-inicio/recordatorios.md
+    # - guia-de-inicio/alta-de-inspecciones/alta-de-inspeccion-periodica/alta-de-inspeccion-periodica.md
+    # - guia-de-inicio/alta-de-inspecciones/alta-de-inspeccion-no-periodica/alta-de-inspeccion-no-periodica.md
+    # - guia-de-inicio/dar-de-alta-expedientes.md
+    # - guia-de-inicio/trabajar-con-inspecciones.md
+    # - guia-de-inicio/trabajar-con-expedietes.md
+    # - guia-de-inicio/facturacion.md
+    # - guia-de-inicio/informes.md
+    # - guia-de-inicio/recordatorios.md
   
   - Casos de uso:
     - Clientes:

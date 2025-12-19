@@ -4,13 +4,13 @@ En esta sección se describen las diferentes partes de la pantalla que ves como 
 
 ![Pantalla de inicio](images/pantalla-inicio.png)
 
-**1\. Barra de título**
+#### Barra de título
 
 Muestra información sobre la aplicación, sobre la estación de ITV y el usuario que está utilizando la aplicación actualmente.
 
 ![alt text](images/image.png)
 
-**2\. Barra de menús**
+#### Barra de menús
 
 ![alt text](images/image-1.png)
 
@@ -28,19 +28,19 @@ Es donde están todas las opciones disponibles en el programa. Los menús princi
 | Nota: Cada usuario tiene o puede tener una configuración en cuanto a permisos que impida ver todas las opciones que se muestran en el manual. |
 | :---- |
 
-**3\. Barra de accesos rápidos**
+#### Barra de accesos rápidos
 
 ![alt text](images/image-2.png)
 
 En la barra de accesos directos se muestran las opciones más utilizadas durante el trabajo diario de la estación.
 
-**4\. Barra de estado**
+#### Barra de estado
 
 ![alt text](images/image-3.png)
 
 En la barra de estado se muestra información relevante a las operaciones que se están realizando, como mensajes que alertan sobre el estado del software o alguna de sus funciones y el estado de alguno de los procesos que se están ejecutando, ya sean de forma puntual, ya sean de forma permanente.
 
-Notificaciones
+**Notificaciones**
 
 En la zona derecha, se encuentra la zona de notificaciones, que muestra en forma de mensajes emergentes los diferentes estados, alertas o errores que se producen durante la ejecución de las diferentes actividades o tareas que realiza el software.
 
@@ -62,30 +62,31 @@ Si el proceso que se está ejecutando es permanente (no finaliza hasta que es ab
 
 ![alt text](images/image-5.png)
 
-**5\. Fondo de escritorio de la aplicación**
+#### Fondo de escritorio de la aplicación
 
 Es la zona común de la aplicación (punto 5 en ilustración 11\) que contiene todas las ventanas. Puede personalizarse la imagen accediendo al menú *Ventanas \> Cambiar fondo*.
 
-**6\. Ventanas de botones rápidos**
+#### Ventanas de botones rápidos
 
-![alt text](images/image-6.png)
+![Ventana de botones rápidos](images/image-6.png)
 
 Se muestran en esta ventana una serie de botones con acceso a procesos de utilidad.
 
-| Estas funciones que aparecen en la *Ilustración 13* no son configurables. |
-| :---- |
+!!! Nota
 
-**7\. Ventana de tareas**
+    Estas funciones que aparecen en la imagen no son configurables.
+
+#### Ventana de tareas
 
 Creativa Digital 360 ITV contiene un gestor de tareas, que se puede mostrar en la pantalla de inicio.
 
-![alt text](images/image-7.png)
+![Gestor de tareas](images/image-7.png)
 
 Esta pantalla contiene una lista de las tareas actualmente creadas, mostrando la descripción, el estado y la importancia.
 
 Estas tareas pueden ser genéricas o estar asignadas a algún usuario.
 
-Si quieres utilizar el sistema de tareas, puedes hacerlo desde esta misma pantalla, desde el menú *Gestión \> Tareas* o bien desde la sección CRM que tiene cada cliente en su ficha en el menú *Mantenimiento \> Clientes y dentro de la ficha de un Cliente \> CRM \> Tareas*.
+Si quieres utilizar el sistema de tareas, puedes hacerlo desde esta misma pantalla, desde el menú *Gestión > Tareas* o bien desde la sección CRM que tiene cada cliente en su ficha en el menú *Mantenimiento > Clientes y dentro de la ficha de un Cliente > CRM > Tareas*.
 
 Desde esta ventana se pueden dar de alta, eliminarlas, modificarlas o marcarlas como realizadas.
 
@@ -95,7 +96,7 @@ Los avisos que generan las tareas aparecen en la barra de estado y se pueden con
 
 Para saber más sobre Tareas, consulta la sección específica del manual.
 
-**8\. Pantallas de trabajo**
+#### Pantallas de trabajo
 
 Las pantallas de trabajo son aquellas en las que nos muestra un listado de inspecciones, clientes, expedientes, matrículas, etc. y contienen una tabla con información.
 
@@ -121,7 +122,8 @@ La información que se muestra en la tabla se puede filtrar utilizando el filtro
 
 Acciones que se pueden realizar con la información que se muestra actualmente en la pantalla.
 
-![alt text](images/image-11.png)
+![Botones de acciones](images/image-11.png)
+
 
 Todas las pantallas de trabajo, en donde se muestra una tabla de registros, comparten ciertos botones. Estos son comunes en todas ellas, por lo que se describen a continuación su función.
 
@@ -131,9 +133,9 @@ Todas las pantallas de trabajo, en donde se muestra una tabla de registros, comp
 * **Refrescar**: Actualiza el contenido de la tabla. En muchos casos, al trabajar con la aplicación de gestión desde muchos puestos, puede que convenga refrescar los datos antes de realizar operaciones que impliquen nuevos registros o eliminación de registros.  
 * **Listado**: Vista por pantalla formateada en A4 para su impresión en papel o guardado en PDF.
 
-**9\. Pantalla de alta de Inspección**
+#### Pantalla de alta de Inspección
 
-Disponible en *Gestión \> Altas de Inspección* o en la *barra de accesos directos*.
+Disponible en *Gestión > Altas de Inspección* o en la *barra de accesos directos*.
 
 Es la pantalla que se muestra cada vez que se realiza una nueva inspección y es donde se introducen todos los datos relativos a la inspección, como lo son, los datos del vehículo, los datos de los intervinientes (cliente titular, cliente presencial y cliente a facturar), datos de la estación, cita previa y otros datos.
 
